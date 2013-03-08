@@ -3,7 +3,8 @@ adam.gilg@gmail.com
 
 ## Experience
 ### BrainBoost Education, Vancouver BC
-English/Humanities Tutoring and Communications/Marketing
+#### English/Humanities Tutoring and Communications/Marketing
+
 _September 2010 - July 2012_
 
 * Tutored students aged 10-20 in writing, studying, and critical thinking skills. Helped them organize their writing for clarity, simplicity, and effectiveness
