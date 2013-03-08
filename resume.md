@@ -48,9 +48,12 @@ Developed strong and versatile critical analysis, writing, researching and editi
 Volunteering experience including:
 ### Free Geek Vancouver
 * Computer disassembly and recycling
+
 ### Vancouver Public Space Network
 * Writer/Editor
+
 ### Hekab be Biblioteca, Akumal, Mexico
 * English teaching and educational support
+
 ### Vancouver Folk Music Festival
 * Volunteer in various customer service positions over 4 years
