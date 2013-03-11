@@ -1,7 +1,17 @@
 # Adam Gilgoff
 adam.gilg@gmail.com
 
-## Experience
+## Education
+### [App Academy, San Francisco, CA](http://appacademy.io)
+_January 2013 - March 2013_
+
+Nine week bootcamp web development course with a strong project-focus.
+
+### UBC Faculty of Arts, Bachelor of Arts in English Literature, Vancouver BC
+_September 2003 - December 2008_
+
+Developed strong and versatile critical analysis, writing, researching and editing skills
+
 ### BrainBoost Education, Vancouver BC
 #### English/Humanities Tutoring and Communications/Marketing
 
@@ -39,11 +49,6 @@ _February 2005 – July 2007_
 
 Customer service, food preparation, opening and closing duties, and store upkeep
 
-## Education
-### UBC Faculty of Arts, Bachelor of Arts in English Literature, Vancouver BC
-_September 2003 - December 2008_
-
-Developed strong and versatile critical analysis, writing, researching and editing skills
 
 ## Volunteering
 Volunteering experience including:
