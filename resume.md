@@ -1,5 +1,6 @@
 # Adam Gilgoff
 adam.gilg@gmail.com
+
 415-967-8221
 
 ## Skills
@@ -38,7 +39,7 @@ _January 2013 - March 2013_
 
 Nine week web development bootcamp course. 
 
-Gained extensive practice (with 40 hours of class time and 60-80 hours of total work each week) with core programming concepts and a range of current web development technologies and best practices.
+Gained extensive practice (40 hours of class time and 60-80 hours of total work each week) with core programming concepts and a range of current web development technologies and best practices.
 
 ### UBC Faculty of Arts, Bachelor of Arts in English Literature, Vancouver BC
 _September 2003 - December 2008_
