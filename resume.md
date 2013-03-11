@@ -41,7 +41,7 @@ Nine week web development bootcamp course.
 
 Gained extensive practice (40 hours of class time and 60-80 hours of total work each week) with core programming concepts and a range of current web development technologies and best practices.
 
-### UBC Faculty of Arts, Bachelor of Arts in English Literature, Vancouver BC
+### University of British Columbia, BA in English Literature, Vancouver BC
 _September 2003 - December 2008_
 
 Developed strong and versatile critical analysis, writing, researching and editing skills
