@@ -1,12 +1,6 @@
 # Adam Gilgoff
 adam.gilg@gmail.com
-
-## Projects
-### [Grocerier](http://grocerier.herokuapp.com)
-A Rails App for creating shopping lists across multiple local grocery stores. Made up data (the little produce markets don't have APIs, unfortunately), but real list creation functionality. Makes extensive use of complex forms and JQuery/AJAX for asynchronous page updates. Twitter Bootstrap for styling.
-[Code available on GitHub](https://github.com/adamgilg/grocery-pricer)
-
-### Asteroids 
+415-967-8221
 
 ## Skills
 ### Technical
@@ -26,6 +20,17 @@ A Rails App for creating shopping lists across multiple local grocery stores. Ma
 * Writing and editing
 * Teaching & communication
 
+## Projects
+### [Grocerier](http://grocerier.herokuapp.com)
+A Rails App for creating shopping lists across multiple local grocery stores. Made up data (the little produce markets don't have APIs, unfortunately), but real list creation functionality. Makes extensive use of complex forms and JQuery/AJAX for asynchronous page updates. Twitter Bootstrap for styling.
+[Code available on GitHub](https://github.com/adamgilg/grocery-pricer)
+
+### [Cat or Not](https://github.com/adamgilg/cat-or-not)
+Simple Rails App for up/downvoting cats.
+
+### [Space Invasion](https://github.com/adamgilg/W7D3-4-Space-Invasion)
+JavaScript game built to run in HTML5's canvas feature.
+
 ## Education
 ### [App Academy, San Francisco, CA](http://appacademy.io)
 _January 2013 - March 2013_
@@ -38,6 +43,8 @@ Gained extensive practice (with 40 hours of class time and 60-80 hours of total 
 _September 2003 - December 2008_
 
 Developed strong and versatile critical analysis, writing, researching and editing skills
+
+## Experience
 
 ### BrainBoost Education, Vancouver BC
 #### English/Humanities Tutoring and Communications/Marketing
@@ -71,14 +78,12 @@ _January 2008 - January 2009_
 * Used personal knowledge and internet research to help customers find books
 * Placed orders with distributors and communicated with customers over the phone
 
-### Solly's Bagelry, Vancouver BC
-_February 2005 – July 2007_
-
-Customer service, food preparation, opening and closing duties, and store upkeep
-
-
 ## Volunteering
 Volunteering experience including:
+### San Francisco Bike Coalition
+
+### Mission High School Bike Club
+
 ### Free Geek Vancouver
 * Computer disassembly and recycling
 
