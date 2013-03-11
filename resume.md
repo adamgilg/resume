@@ -8,10 +8,8 @@ adam.gilg@gmail.com
 * Ruby
 * Ruby on Rails
 * JavaScript
-* JQuery
-* HTML
-* CSS
-* SQL/ActiveRecord
+* HTML/CSS/JQuery
+* SQL
 * Git
 * RSpec/TDD
 * API construction and usage
