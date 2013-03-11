@@ -23,7 +23,8 @@ adam.gilg@gmail.com
 ## Projects
 ### [Grocerier](http://grocerier.herokuapp.com)
 A Rails App for creating shopping lists across multiple local grocery stores. Made up data (the little produce markets don't have APIs, unfortunately), but real list creation functionality. Makes extensive use of complex forms and JQuery/AJAX for asynchronous page updates. Twitter Bootstrap for styling.
-[Code available on GitHub](https://github.com/adamgilg/grocery-pricer)
+
+[Code available on GitHub.](https://github.com/adamgilg/grocery-pricer)
 
 ### [Cat or Not](https://github.com/adamgilg/cat-or-not)
 Simple Rails App for up/downvoting cats.
