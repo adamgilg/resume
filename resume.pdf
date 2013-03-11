@@ -6,7 +6,11 @@ adam.gilg@gmail.com
 A Rails App for creating shopping lists across multiple local grocery stores. Made up data (the little produce markets don't have APIs, unfortunately), but real list creation functionality. Makes extensive use of complex forms and JQuery/AJAX for asynchronous page updates. Twitter Bootstrap for styling.
 [Code available on GitHub](https://github.com/adamgilg/grocery-pricer)
 
-### Asteroids 
+### [Cat or Not](https://github.com/adamgilg/cat-or-not)
+Simple Rails App for up/downvoting cats.
+
+### [Space Invasion](https://github.com/adamgilg/W7D3-4-Space-Invasion)
+JavaScript game built to run in HTML5's canvas feature.
 
 ## Skills
 ### Technical
