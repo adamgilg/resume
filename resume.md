@@ -16,8 +16,10 @@ adam.gilg@gmail.com
 * Assorted Ruby gems (Devise, Simple Form, TDD-related Rails gems)
 
 ### Non-technical
-* Writing and editing
+* Writing - business, creative, marketing
+* Editing
 * Teaching & communication
+* Video editing
 
 ## Projects
 ### [Grocerier](http://grocerier.herokuapp.com)
