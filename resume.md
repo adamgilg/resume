@@ -29,7 +29,7 @@ A Rails App for creating shopping lists across multiple local grocery stores. Ma
 Simple Rails App for up/downvoting cats.
 
 ### [Space Invasion](https://github.com/adamgilg/W7D3-4-Space-Invasion)
-JavaScript game built to run in HTML5's canvas feature.
+JavaScript game built using HTML5 canvas functionality.
 
 ## Education
 ### [App Academy, San Francisco, CA](http://appacademy.io)
