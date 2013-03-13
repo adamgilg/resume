@@ -82,18 +82,14 @@ _January 2008 - January 2009_
 
 ## Volunteering
 Volunteering experience including:
-### San Francisco Bike Coalition
-
 ### Mission High School Bike Club
+* Working with teens to repair and build bicycles
+
+### San Francisco Bike Coalition
+* Variety of volunteer positions across the organization
 
 ### Free Geek Vancouver
 * Computer disassembly and recycling
 
-### Vancouver Public Space Network
-* Writer/Editor
-
 ### Hekab be Biblioteca, Akumal, Mexico
 * English teaching and educational support
-
-### Vancouver Folk Music Festival
-* Volunteer in various customer service positions over 4 years
