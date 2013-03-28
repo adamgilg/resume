@@ -9,5 +9,9 @@ body {
 .main {
   width: 70%;
   margin: auto;
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+#profile {
+  max-width: none;
 }
